@@ -1,0 +1,14 @@
+CSE 410/510 - Introduction to Agentic Engineering
+University at Buffalo - Fall 2026
+
+Instructors: Dr. Joaquin Carbonara and Dr. David Doermann
+Meeting time: Tuesdays and Thursdays, 11:00 AM - 12:20 PM
+Office hours: by appointment
+
+This course introduces the engineering principles behind tool-using AI
+agents: the perception-action loop, the ReAct pattern, tool registries,
+function calling, and the failure modes that make agents brittle. Students
+build a series of increasingly capable agents, starting from a minimal
+tool-using loop and progressing to multi-agent systems.
+
+Grading: 6 labs (60%), midterm project (15%), final project (25%).
